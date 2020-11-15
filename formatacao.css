@@ -1,0 +1,75 @@
+body {
+    background-attachment: fixed;
+    margin-left: 22%;
+    margin-right: 22%;
+    border-width: medium; 
+    border-style: ridge;
+    border-color: black;
+    margin-top: 0%;
+    padding-left: 0px;
+    background-color:gainsboro;
+
+}
+h1 {
+    text-align: center;
+    font-family: "Verdana";
+}
+
+h3 {
+    text-align: center;
+}
+
+.corpo {
+    background-color: white;
+    margin-top: 0%;
+}
+
+.texto1 {
+    color: darkblue;
+    white-space: pre-wrap;
+    word-break: keep-all;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.3%;
+    text-align: justify;
+}
+
+header {
+    background-color: gainsboro;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: gainsboro;
+
+}
+
+.cab {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    border-width: medium; 
+    border-style: ridge;
+    border-color: black;
+    background-color: darkblue;
+    
+}
+
+.text2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+.t3 {
+    text-align: center;
+    padding: 0.7%;
+    color: darkred;
+}
+.t4 {
+    text-align: justify;
+    padding: 0.3%;
+    display: flex;
+    justify-content: space-between;
+    color:black;
+ 
+}
